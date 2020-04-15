@@ -1,2 +1,4 @@
+Reached :
+    - built rooter page
 ToReach version 0.1:
     - Build MVC base structure
