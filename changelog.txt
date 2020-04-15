@@ -1,4 +1,7 @@
 Reached :
     - built rooter page
+    - built view system
 ToReach version 0.1:
+    - Add Database interaction
+    - Implement local strings system
     - Build MVC base structure

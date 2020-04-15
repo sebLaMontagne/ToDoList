@@ -19,4 +19,4 @@ if( isset($_GET['controller']) && array_key_exists($_GET['controller'],$controll
     $controllers[$_GET['controller']]->{$_GET['action']}();
 }
 // Sinon, on envoie l'utilisateur sur la vue NotFound
-else exit(header('Location: '.$ABSOLUTE_URL.'Default/notFound.fr'));
+else exit(header('Location: Default-notFound.fr'));

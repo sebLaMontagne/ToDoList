@@ -1,4 +1,4 @@
 Options +FollowSymLinks
 RewriteEngine on
 
-RewriteRule ^([a-zA-Z]+)/([a-zA-Z]+).([a-z]+)$  /ToDoList/index.php?controller=$1&action=$2&lang=$3
+RewriteRule ^([a-zA-Z]+)-([a-zA-Z]+).([a-z]+)$  /ToDoList/index.php?controller=$1&action=$2&lang=$3

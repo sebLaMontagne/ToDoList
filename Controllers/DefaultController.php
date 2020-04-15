@@ -4,7 +4,7 @@ class DefaultController
 {
     public function home()
     {
-        echo 'pop';
+        $viewModel = new ViewModel('template', 'home');
     }
 
     public function notFound()
