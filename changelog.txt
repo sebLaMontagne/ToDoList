@@ -1,7 +1,27 @@
 Reached :
     - built rooter page
     - built view system
-ToReach version 0.1:
     - Add Database interaction
     - Implement local strings system
+-------------------------------------------------------------------------------
+ToReach version 0.1:
     - Build MVC base structure
+-------------------------------------------------------------------------------
+ToReach version 0.2:
+    - Add authentification system
+-------------------------------------------------------------------------------
+ToReach version 0.3:
+    - Add SCRUD for tasks
+-------------------------------------------------------------------------------
+ToReach version 1.0:
+    - Each user can SCRUD task, change their properties and build his schedule
+-------------------------------------------------------------------------------
+ToReach version 2.0:
+    - Implement articles, comments, appreciations, reports, and users roles (writer, moderator, etc)
+-------------------------------------------------------------------------------
+ToReach version 3.0:
+    - Implement reward system for active members, + referendums
+-------------------------------------------------------------------------------
+ToReach version 4.0:
+    - Implement chat, and group systems + test an argument system
+-------------------------------------------------------------------------------

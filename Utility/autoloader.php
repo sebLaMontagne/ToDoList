@@ -1,7 +1,7 @@
 <?php
 
 spl_autoload_register(function($class){
-    $Classesfolders = ['Controllers', 'Models', 'Views'];
+    $Classesfolders = ['Controllers', 'Models', 'Views', 'Managers'];
     foreach($Classesfolders as $folder){
         $file = $folder.'/'.$class.'.php';
         if(file_exists($file)){
